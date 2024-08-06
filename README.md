@@ -1,3 +1,5 @@
+IN CODE EDITOR/ If you dowload only to test, feel free to use the .exe file in dist folder.
+
 ## Automated Gmail Email Sender
 
 This script uses PyAutoGUI to automate the process of composing and sending emails through Gmail. Below are the steps to set up and run the script:
