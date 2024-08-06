@@ -1,4 +1,6 @@
-IN CODE EDITOR/ If you dowload only to test, feel free to use the .exe file in dist folder.
+If you dowload only to test, feel free to use the .exe file in dist folder.
+
+IN CODE EDITOR
 
 ## Automated Gmail Email Sender
 
